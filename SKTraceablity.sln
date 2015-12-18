@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKTraceablity", "SKTraceablity\SKTraceablity.csproj", "{7B4554EF-A1D7-4253-B2DC-5E3C351FA511}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SKTraceablitySetup", "SKTraceablitySetup\SKTraceablitySetup.vdproj", "{F228E4F0-E3BB-41EE-827E-2FB383CB851E}"
